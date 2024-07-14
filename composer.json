@@ -1,8 +1,0 @@
-{
-    "name": "vendor/sowka",
-    "description": "sowka",
-    "require": {
-        "stripe/stripe-php": "^15.0",
-        "phpmailer/phpmailer": "^6.9"
-    }
-}
